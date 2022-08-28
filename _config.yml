@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: fastpages
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+title: My Fastai Journey
+description: Hello, Everyone. My name is Vikas Awasthi and i am taking fast.ai course, and i will be blogging about my journey of learning in this website.
 github_username: vikasAWA
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "My-Fastai-Journey-blog"
